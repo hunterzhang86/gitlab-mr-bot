@@ -23,7 +23,7 @@ flask-cors==3.0.10
 
 1. 克隆仓库到您的服务器
 ```bash
-git clone https://github.com/yourusername/gitlab-mr-bot.git
+git clone https://github.com/hunterzhang86/gitlab-mr-bot.git
 cd gitlab-mr-bot
 ```
 
